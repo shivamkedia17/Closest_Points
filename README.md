@@ -5,9 +5,9 @@
 A graph containing randomly generated points is created.
 This program uses divide and conquer to find the closest pair of points in the graph.
 
-Time Complexity: O(n.logn)
+###Time Complexity: O(n.logn)
 
-For further explanation to Ling Qi's video: [YouTube] <https://youtu.be/6u_hWxbOc7E>
+For further explanation to Ling Qi's video: <https://youtu.be/6u_hWxbOc7E>
 
 Additionally, the program gives the correct result despite the sorting the 7 closest points' co-ordinates
 by the x-coordinate only. Many tutorials suggest that the points also simultaneously be sorting by the y-coordinate.
