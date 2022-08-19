@@ -5,7 +5,7 @@
 A graph containing randomly generated points is created.
 This program uses divide and conquer to find the closest pair of points in the graph.
 
-###Time Complexity: O(n.logn)
+### Time Complexity: O(n.logn)
 
 For further explanation to Ling Qi's video: <https://youtu.be/6u_hWxbOc7E>
 
